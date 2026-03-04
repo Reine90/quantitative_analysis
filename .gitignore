@@ -1,0 +1,10 @@
+# PyCharm specific files
+.idea/
+# Virtual environments (the big folder with all libraries)
+.venv/
+# Python cache (compiled code)
+__pycache__/
+
+
+# Data files (Optional: only if the CSV is huge or private)
+# study_results.csv
